@@ -1,0 +1,79 @@
+html{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+
+
+
+.bg-light{
+    background-color: #f2e9e4;
+}
+
+.navbar-brand{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 1.5rem;
+    color: #5f6368;
+}
+
+.nav-link{
+    color: #5f6368!important;
+    font-weight: bolder;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+
+.main-content{
+    height: 100vh;
+    background-color: #0a141f;
+    color: #ffffff;
+   
+    display: grid;
+    place-items: center;
+    
+
+}
+
+
+
+.start-button{
+    border-radius: 0.5rem;
+    padding: 1rem 2rem;
+    font-size: 162%;
+    background-color: #fff;
+    color: #04090c!important;
+    transition: 0.3s;
+}
+
+.start-button:hover{
+    text-decoration: none;
+    background-color: #78c4ea;
+    
+}
+
+
+footer{
+    background-color:  rgb(97, 105, 110);
+}
+
+.social-icons li{
+    list-style: none;
+    display: inline;
+    padding: 0.5rem;
+}
+
+.github{
+    color: #24292e;
+}
+
+.linkedin{
+    color: #0077b5;
+}

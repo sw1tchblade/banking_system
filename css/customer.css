@@ -1,0 +1,46 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #0a141f;
+    
+}
+
+
+
+.bg-light{
+    background-color: #f2e9e4;
+}
+
+.navbar-brand{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 1.5rem;
+    color: #5f6368;
+}
+
+.nav-link{
+    color: #5f6368!important;
+    font-weight: bolder;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+
+
+.my-info{
+    padding: 2rem 5rem;
+    color:white;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: #294568!important;
+    color: #fff!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(67, 83, 230)!important;
+}
